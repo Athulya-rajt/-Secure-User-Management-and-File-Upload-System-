@@ -35,3 +35,12 @@ python app.py
 
 Open: http://127.0.0.1:5000/
 
+
+## Preview
+'''
+<img width="1046" height="305" alt="image" src="https://github.com/user-attachments/assets/4c42b350-4922-4065-a5b0-2016dd8e3f71" />
+<img width="1348" height="657" alt="image" src="https://github.com/user-attachments/assets/0285e862-8df9-4956-b948-2cff750c52af" />
+<img width="1270" height="708" alt="image" src="https://github.com/user-attachments/assets/280ca0b4-ed64-481f-936a-1810653218ad" />
+<img width="1340" height="666" alt="image" src="https://github.com/user-attachments/assets/4f3dad4a-4bed-482c-ad1a-621f9219b64b" />
+
+'''
